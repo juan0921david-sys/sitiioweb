@@ -160,7 +160,7 @@ const colores = [
 ];
 
 const INDICE_COLOR_DISPONIBLE_POR_DEFECTO = colores.findIndex(c => c.disponible);
-const RUTA_IMGS = "";
+const RUTA_IMGS = "img/";
 
 const modelosConfig = {
   "Ribeed": {
