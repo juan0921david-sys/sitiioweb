@@ -145,8 +145,8 @@
 /* PALETA DE COLORES Y CONFIGURACIÓN DE MODELOS */
 const colores = [
   { nombre: "Beige", valor: "#d7c2a3", disponible: false },
-  { nombre: "Neon husky", valor: "#d6ff3f", disponible: true },
   { nombre: "Naranja KTM", valor: "#ff6600", disponible: true },
+  { nombre: "Neon husky", valor: "#d6ff3f", disponible: true },
   { nombre: "Negro azabache", valor: "#111111", disponible: true },
   { nombre: "Púrpura Yamaha", valor: "#4c2b87", disponible: true },
   { nombre: "Rosado pink", valor: "#ff4fa3", disponible: true },
