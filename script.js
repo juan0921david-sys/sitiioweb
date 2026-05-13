@@ -154,7 +154,7 @@ const colores = [
   { nombre: "Azul Husqvarna", valor: "#2f6cff", disponible: true },
   { nombre: "Azul Yamaha", valor: "#0033a0", disponible: true },
   { nombre: "Verde KX", valor: "#29a329", disponible: true },
-  { nombre: "Gris nube 30%", valor: "#b8b8b8", disponible: true },
+  { nombre: "Gris nube 70%", valor: "#b8b8b8", disponible: true },
   { nombre: "Blanco", valor: "#f3f3f3", disponible: true },
   { nombre: "Azul RM", valor: "#1b52d6", disponible: true }
 ];
