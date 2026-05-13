@@ -173,9 +173,9 @@ const modelosConfig = {
   },
 
   "Universal": {
-    outline: RUTA_IMGS + "outlineuniversal.PNG",
+    outline: RUTA_IMGS + "outlineuniversal.png",
     zonas: [
-      { id: "base", label: "Base", layer: "layerBase", mask: RUTA_IMGS + "baseuniversal.PNG" },
+      { id: "base", label: "Base", layer: "layerBase", mask: RUTA_IMGS + "baseuniversal.png" },
       { id: "lineas", label: "Ribetes", layer: "layerLineas", mask: RUTA_IMGS + "lineasuniversal.png" }
     ]
   },
