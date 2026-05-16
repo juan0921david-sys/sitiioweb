@@ -201,7 +201,7 @@ const modelosData = {
   "Universal": {
     features: [
       "Diseño funcional y resistente.",
-      "Adaptación a mayoría de marcas y modelos desde 2012 hasta 2024.",
+      "Adaptación a mayoría de marcas y modelos desde 2012 hasta el año actual.",
       "Ofrece buen agarre y un acabado vulcanizado 99.9% impermeable."
     ]
   },
