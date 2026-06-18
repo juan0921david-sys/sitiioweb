@@ -1938,9 +1938,9 @@ select:focus {
 
 .distribuidores-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 16px;
-  max-width: 1200px;
+  max-width: 900px;
   margin: 44px auto 0;
 }
 
@@ -2079,11 +2079,11 @@ select:focus {
 
 @media (max-width: 640px) {
   .distribuidores { padding: 60px 16px; }
-  .distribuidores-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-    margin-top: 28px;
-  }
+ .distribuidores-grid {
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin-top: 24px;
+}
   .dist-card { padding: 16px 14px; gap: 10px; }
   .dist-links { gap: 6px; }
   .dist-link { font-size: 0.64rem; padding: 6px 10px; }
