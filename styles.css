@@ -2030,10 +2030,10 @@ select:focus {
   margin-bottom: 20px;
 }
 
-.dist-links {
+.dist-links{
   display: flex;
+  gap: 10px;
   flex-wrap: wrap;
-  gap: 8px;
 }
 
 .dist-link {
